@@ -41,14 +41,35 @@
                         "url": "result.csv"
                     },
                     "key": "nome",
-                    "fields": ["escolas"]
+                    "fields": ["escolas", "nome"]
                 }
             }],
             "mark": "geoshape",
             "encoding": {
-                "color": {
+                "tooltip": [{
+                    "field": "nome",
+                    "type": "nominal"
+                },
+                {
                     "field": "escolas",
                     "type": "quantitative"
+                }],
+                "color": {
+                    "field": "escolas",
+                    "type": "quantitative",
+                    "legend": {
+                        "title": "Número de escolas no bairro",
+                        "direction": "horizontal", //Default é vertical
+                        "orient": "bottom-right", //Default é right
+                        "fill": "Black",
+                        "range": { "scheme": "Blues" }
+                    }
+                }
+            },
+            "config": {
+                "legend": {
+                    "fill": "Blues",
+                    "symbolBaseStrokeColor": "black"
                 }
             }
         };
