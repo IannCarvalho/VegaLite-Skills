@@ -29094,7 +29094,26 @@
                             4
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1103",
+                        "municipioi": 1,
+                        "codigo": "103",
+                        "area": 2,
+                        "perimetro": 8,
+                        "nome": "FIGUEIRÊDO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 2068708.26732,
+                        "st_length_": 8838.87840541
+                    }
                 },
                 {
                     "arcs": [
@@ -29108,7 +29127,26 @@
                             11
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1120",
+                        "municipioi": 1,
+                        "codigo": "120",
+                        "area": 2,
+                        "perimetro": 8,
+                        "nome": "CATOLÉ",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 2882272.73607,
+                        "st_length_": 8623.19020731
+                    }
                 },
                 {
                     "arcs": [
@@ -29121,7 +29159,26 @@
                             17
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1123",
+                        "municipioi": 1,
+                        "codigo": "123",
+                        "area": 3,
+                        "perimetro": 9,
+                        "nome": "MALVINAS",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 3394288.50927,
+                        "st_length_": 9499.87444333
+                    }
                 },
                 {
                     "arcs": [
@@ -29131,7 +29188,26 @@
                             20
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1110",
+                        "municipioi": 1,
+                        "codigo": "110",
+                        "area": 0,
+                        "perimetro": 4,
+                        "nome": "VILA CABRAL",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 988537.03659,
+                        "st_length_": 4612.98738087
+                    }
                 },
                 {
                     "arcs": [
@@ -29141,7 +29217,26 @@
                             23
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1132",
+                        "municipioi": 1,
+                        "codigo": "132",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "BRASÍLIA",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1045719.33583,
+                        "st_length_": 5155.55184446
+                    }
                 },
                 {
                     "arcs": [
@@ -29155,7 +29250,26 @@
                             28
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1106",
+                        "municipioi": 1,
+                        "codigo": "106",
+                        "area": 8,
+                        "perimetro": 14,
+                        "nome": "IRMÃS",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 8499363.06973,
+                        "st_length_": 14626.0307885
+                    }
                 },
                 {
                     "arcs": [
@@ -29167,7 +29281,26 @@
                             33
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1115",
+                        "municipioi": 1,
+                        "codigo": "115",
+                        "area": 0,
+                        "perimetro": 3,
+                        "nome": "QUARENTA",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 702881.7463,
+                        "st_length_": 3992.57397138
+                    }
                 },
                 {
                     "arcs": [
@@ -29179,7 +29312,26 @@
                             36
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1105",
+                        "municipioi": 1,
+                        "codigo": "105",
+                        "area": 0,
+                        "perimetro": 3,
+                        "nome": "MÉDICE",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 854309.498613,
+                        "st_length_": 3998.18970898
+                    }
                 },
                 {
                     "arcs": [
@@ -29197,7 +29349,26 @@
                             46
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1131",
+                        "municipioi": 1,
+                        "codigo": "131",
+                        "area": 1,
+                        "perimetro": 7,
+                        "nome": "CENTRO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1998054.29848,
+                        "st_length_": 7980.61667125
+                    }
                 },
                 {
                     "arcs": [
@@ -29207,7 +29378,26 @@
                             48
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1130",
+                        "municipioi": 1,
+                        "codigo": "130",
+                        "area": 0,
+                        "perimetro": 3,
+                        "nome": "RAMADINHA",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 438571.041673,
+                        "st_length_": 3125.51878707
+                    }
                 },
                 {
                     "arcs": [
@@ -29217,7 +29407,26 @@
                             -3
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1100",
+                        "municipioi": 1,
+                        "codigo": "100",
+                        "area": 2,
+                        "perimetro": 8,
+                        "nome": "CIDADES",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 2447384.78552,
+                        "st_length_": 8278.51429759
+                    }
                 },
                 {
                     "arcs": [
@@ -29229,7 +29438,26 @@
                             -36
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1101",
+                        "municipioi": 1,
+                        "codigo": "101",
+                        "area": 9,
+                        "perimetro": 13,
+                        "nome": "VELAME",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 9907778.52947,
+                        "st_length_": 13085.1451664
+                    }
                 },
                 {
                     "arcs": [
@@ -29240,7 +29468,26 @@
                             56
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1107",
+                        "municipioi": 1,
+                        "codigo": "107",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "PAULISTANO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1170527.08673,
+                        "st_length_": 5638.11016382
+                    }
                 },
                 {
                     "arcs": [
@@ -29252,7 +29499,26 @@
                             59
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1119",
+                        "municipioi": 1,
+                        "codigo": "119",
+                        "area": 0,
+                        "perimetro": 2,
+                        "nome": "ESTAÇÃO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 450152.883411,
+                        "st_length_": 2760.62591793
+                    }
                 },
                 {
                     "arcs": [
@@ -29266,7 +29532,26 @@
                             65
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1146",
+                        "municipioi": 1,
+                        "codigo": "146",
+                        "area": 2,
+                        "perimetro": 8,
+                        "nome": "JARDIM TAVARES",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 2233576.23198,
+                        "st_length_": 8698.80056819
+                    }
                 },
                 {
                     "arcs": [
@@ -29279,7 +29564,26 @@
                             71
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1147",
+                        "municipioi": 1,
+                        "codigo": "147",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "JARDIM",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1280018.4521,
+                        "st_length_": 5041.06806004
+                    }
                 },
                 {
                     "arcs": [
@@ -29294,7 +29598,26 @@
                             75
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1108",
+                        "municipioi": 1,
+                        "codigo": "108",
+                        "area": 1,
+                        "perimetro": 7,
+                        "nome": "CRUZEIRO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1783348.7764,
+                        "st_length_": 7045.66569131
+                    }
                 },
                 {
                     "arcs": [
@@ -29307,7 +29630,26 @@
                             77
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1109",
+                        "municipioi": 1,
+                        "codigo": "109",
+                        "area": 0,
+                        "perimetro": 4,
+                        "nome": "SANTA CRUZ",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 916644.945683,
+                        "st_length_": 4849.09843333
+                    }
                 },
                 {
                     "arcs": [
@@ -29318,7 +29660,26 @@
                             79
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1148",
+                        "municipioi": 1,
+                        "codigo": "148",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "NAÇÕES",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1438519.21224,
+                        "st_length_": 5132.54416892
+                    }
                 },
                 {
                     "arcs": [
@@ -29330,7 +29691,26 @@
                             83
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1149",
+                        "municipioi": 1,
+                        "codigo": "149",
+                        "area": 2,
+                        "perimetro": 6,
+                        "nome": "CUITÉS",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 2397897.10011,
+                        "st_length_": 6579.2850405
+                    }
                 },
                 {
                     "arcs": [
@@ -29343,7 +29723,26 @@
                             86
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1102",
+                        "municipioi": 1,
+                        "codigo": "102",
+                        "area": 2,
+                        "perimetro": 9,
+                        "nome": "DISTRITO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 2941914.31583,
+                        "st_length_": 9430.09283895
+                    }
                 },
                 {
                     "arcs": [
@@ -29355,7 +29754,26 @@
                             89
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1104",
+                        "municipioi": 1,
+                        "codigo": "104",
+                        "area": 0,
+                        "perimetro": 4,
+                        "nome": "ITARARÉ",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 901073.70142,
+                        "st_length_": 4331.55274559
+                    }
                 },
                 {
                     "arcs": [
@@ -29367,7 +29785,26 @@
                             92
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1129",
+                        "municipioi": 1,
+                        "codigo": "129",
+                        "area": 0,
+                        "perimetro": 2,
+                        "nome": "ANTÔNIO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 401606.072437,
+                        "st_length_": 2758.71272861
+                    }
                 },
                 {
                     "arcs": [
@@ -29379,7 +29816,26 @@
                             94
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1111",
+                        "municipioi": 1,
+                        "codigo": "111",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "CAVALCANTE",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1314760.12887,
+                        "st_length_": 5808.94392456
+                    }
                 },
                 {
                     "arcs": [
@@ -29392,7 +29848,26 @@
                             -9
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1112",
+                        "municipioi": 1,
+                        "codigo": "112",
+                        "area": 1,
+                        "perimetro": 7,
+                        "nome": "TAMBOR",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1323504.78973,
+                        "st_length_": 7376.63391976
+                    }
                 },
                 {
                     "arcs": [
@@ -29405,7 +29880,26 @@
                             98
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1114",
+                        "municipioi": 1,
+                        "codigo": "114",
+                        "area": 0,
+                        "perimetro": 3,
+                        "nome": "MIRANTE",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 532799.358562,
+                        "st_length_": 3072.26591874
+                    }
                 },
                 {
                     "arcs": [
@@ -29416,7 +29910,26 @@
                             100
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1116",
+                        "municipioi": 1,
+                        "codigo": "116",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "DINAMÉRICA",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1372402.28956,
+                        "st_length_": 5965.11938233
+                    }
                 },
                 {
                     "arcs": [
@@ -29429,7 +29942,26 @@
                             102
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1117",
+                        "municipioi": 1,
+                        "codigo": "117",
+                        "area": 1,
+                        "perimetro": 6,
+                        "nome": "SANTA ROSA",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1138271.19766,
+                        "st_length_": 6108.99252965
+                    }
                 },
                 {
                     "arcs": [
@@ -29442,7 +29974,26 @@
                             -59
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1118",
+                        "municipioi": 1,
+                        "codigo": "118",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "LIBERDADE",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1505295.94411,
+                        "st_length_": 5508.48037321
+                    }
                 },
                 {
                     "arcs": [
@@ -29456,7 +30007,26 @@
                             108
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1121",
+                        "municipioi": 1,
+                        "codigo": "121",
+                        "area": 0,
+                        "perimetro": 4,
+                        "nome": "CENTENÁRIO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 821225.732567,
+                        "st_length_": 4853.28492424
+                    }
                 },
                 {
                     "arcs": [
@@ -29469,7 +30039,26 @@
                             -42
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1122",
+                        "municipioi": 1,
+                        "codigo": "122",
+                        "area": 0,
+                        "perimetro": 4,
+                        "nome": "SÃO JOSÉ",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 764559.628821,
+                        "st_length_": 4615.45436269
+                    }
                 },
                 {
                     "arcs": [
@@ -29480,7 +30069,26 @@
                             112
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1124",
+                        "municipioi": 1,
+                        "codigo": "124",
+                        "area": 0,
+                        "perimetro": 2,
+                        "nome": "PEDREGAL",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 312325.682397,
+                        "st_length_": 2577.82860798
+                    }
                 },
                 {
                     "arcs": [
@@ -29492,7 +30100,26 @@
                             -92
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1125",
+                        "municipioi": 1,
+                        "codigo": "125",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "JOSÉ PINHEIRO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1200637.36784,
+                        "st_length_": 5070.10626674
+                    }
                 },
                 {
                     "arcs": [
@@ -29505,7 +30132,26 @@
                             -22
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1126",
+                        "municipioi": 1,
+                        "codigo": "126",
+                        "area": 1,
+                        "perimetro": 6,
+                        "nome": "CASTELO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1029369.77207,
+                        "st_length_": 6144.94504218
+                    }
                 },
                 {
                     "arcs": [
@@ -29517,7 +30163,26 @@
                             118
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1127",
+                        "municipioi": 1,
+                        "codigo": "127",
+                        "area": 0,
+                        "perimetro": 4,
+                        "nome": "BELA VISTA",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 727278.920017,
+                        "st_length_": 4111.27895382
+                    }
                 },
                 {
                     "arcs": [
@@ -29529,7 +30194,26 @@
                             -43
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1128",
+                        "municipioi": 1,
+                        "codigo": "128",
+                        "area": 0,
+                        "perimetro": 3,
+                        "nome": "PRATA",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 760245.146367,
+                        "st_length_": 3952.85044639
+                    }
                 },
                 {
                     "arcs": [
@@ -29540,7 +30224,26 @@
                             121
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1133",
+                        "municipioi": 1,
+                        "codigo": "133",
+                        "area": 0,
+                        "perimetro": 2,
+                        "nome": "LAURITZEN",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 456490.853562,
+                        "st_length_": 2684.58085565
+                    }
                 },
                 {
                     "arcs": [
@@ -29552,7 +30255,26 @@
                             122
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1134",
+                        "municipioi": 1,
+                        "codigo": "134",
+                        "area": 0,
+                        "perimetro": 4,
+                        "nome": "CASTELO BRANCO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 853263.19783,
+                        "st_length_": 4252.02091273
+                    }
                 },
                 {
                     "arcs": [
@@ -29564,7 +30286,26 @@
                             125
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1135",
+                        "municipioi": 1,
+                        "codigo": "135",
+                        "area": 0,
+                        "perimetro": 2,
+                        "nome": "CONCEIÇÃO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 486796.560125,
+                        "st_length_": 2983.0920863
+                    }
                 },
                 {
                     "arcs": [
@@ -29577,7 +30318,26 @@
                             128
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1136",
+                        "municipioi": 1,
+                        "codigo": "136",
+                        "area": 0,
+                        "perimetro": 4,
+                        "nome": "MONTE SANTO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 838481.117556,
+                        "st_length_": 4118.49897306
+                    }
                 },
                 {
                     "arcs": [
@@ -29593,7 +30353,26 @@
                             131
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1137",
+                        "municipioi": 1,
+                        "codigo": "137",
+                        "area": 3,
+                        "perimetro": 9,
+                        "nome": "BODOCONGÓ",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 3179634.70033,
+                        "st_length_": 9969.22847097
+                    }
                 },
                 {
                     "arcs": [
@@ -29607,7 +30386,26 @@
                             133
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1141",
+                        "municipioi": 1,
+                        "codigo": "141",
+                        "area": 0,
+                        "perimetro": 5,
+                        "nome": "PALMEIRA",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 816889.78631,
+                        "st_length_": 5091.51617811
+                    }
                 },
                 {
                     "arcs": [
@@ -29621,7 +30419,26 @@
                             136
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1138",
+                        "municipioi": 1,
+                        "codigo": "138",
+                        "area": 2,
+                        "perimetro": 10,
+                        "nome": "UNIVERSITÁRIO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 2412570.21685,
+                        "st_length_": 10292.7843434
+                    }
                 },
                 {
                     "arcs": [
@@ -29634,7 +30451,26 @@
                             138
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1139",
+                        "municipioi": 1,
+                        "codigo": "139",
+                        "area": 13,
+                        "perimetro": 18,
+                        "nome": "SERROTÃO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 13354095.2013,
+                        "st_length_": 18510.2257115
+                    }
                 },
                 {
                     "arcs": [
@@ -29646,7 +30482,26 @@
                             -133
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1140",
+                        "municipioi": 1,
+                        "codigo": "140",
+                        "area": 0,
+                        "perimetro": 3,
+                        "nome": "JEREMIAS",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 775640.994248,
+                        "st_length_": 3652.55937638
+                    }
                 },
                 {
                     "arcs": [
@@ -29657,7 +30512,26 @@
                             -68
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1142",
+                        "municipioi": 1,
+                        "codigo": "142",
+                        "area": 0,
+                        "perimetro": 3,
+                        "nome": "LOUZEIRO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 592001.810183,
+                        "st_length_": 3428.50302319
+                    }
                 },
                 {
                     "arcs": [
@@ -29669,7 +30543,26 @@
                             -83
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1143",
+                        "municipioi": 1,
+                        "codigo": "143",
+                        "area": 0,
+                        "perimetro": 3,
+                        "nome": "ARAXÁ",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 648249.786194,
+                        "st_length_": 3536.65470055
+                    }
                 },
                 {
                     "arcs": [
@@ -29682,7 +30575,26 @@
                             -79
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1144",
+                        "municipioi": 1,
+                        "codigo": "144",
+                        "area": 1,
+                        "perimetro": 5,
+                        "nome": "ALTO BRANCO",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 1527112.17181,
+                        "st_length_": 5039.18157708
+                    }
                 },
                 {
                     "arcs": [
@@ -29694,7 +30606,26 @@
                             143
                         ]
                     ],
-                    "type": "Polygon"
+                    "type": "Polygon",
+                    "properties": {
+                        "observacao": "",
+                        "bairroid": "1145",
+                        "municipioi": 1,
+                        "codigo": "145",
+                        "area": 2,
+                        "perimetro": 7,
+                        "nome": "NOVO BODOCONGÓ",
+                        "ativo": "1",
+                        "quadraid": 0,
+                        "inclusao": "1899-11-30T00:00:00.000Z",
+                        "leicriacao": "",
+                        "dataleicri": "1899-11-30T00:00:00.000Z",
+                        "regiaogeog": 0,
+                        "regiaoadmi": "",
+                        "distrito": "",
+                        "st_area_sh": 2155715.65275,
+                        "st_length_": 7990.31488695
+                    }
                 },
                 {
                     "arcs": [
@@ -29709,7 +30640,26 @@
                             ]
                         ]
                     ],
-                    "type": "MultiPolygon"
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "observacao": "Teste",
+                        "bairroid": "9999",
+                        "municipioi": 1,
+                        "codigo": "2",
+                        "area": 2,
+                        "perimetro": 6,
+                        "nome": "BairroTesteEdit",
+                        "ativo": "1",
+                        "quadraid": 1,
+                        "inclusao": "2013-01-25T00:00:00.000Z",
+                        "leicriacao": "AlexMiltonKilcy",
+                        "dataleicri": "2013-01-25T00:00:00.000Z",
+                        "regiaogeog": 1,
+                        "regiaoadmi": "1",
+                        "distrito": "1",
+                        "st_area_sh": 88648.2848446,
+                        "st_length_": 1384.524951
+                    }
                 }
             ]
         }
