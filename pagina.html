@@ -28,45 +28,13 @@
             "width": 1000,
             "height": 600,
             "data": {
-                "url": "geocgbairro.json",
+                "url": "CG_BairrosEGL.json",
                 "format": {
                     "type": "topojson",
-                    "feature": "geocgbairro"
+                    "feature": "CG_BairrosEGL"
                 }
             },
-            "transform": [{
-                "lookup": "properties.nome",
-                "from": {
-                    "data": {
-                        "url": "result.csv"
-                    },
-                    "key": "nome",
-                    "fields": ["escolas", "nome"]
-                }
-            }],
-            "mark": "geoshape",
-            "encoding": {
-                "tooltip": [{
-                    "field": "nome",
-                    "type": "nominal"
-                },
-                {
-                    "field": "escolas",
-                    "type": "quantitative"
-                }],
-                "color": {
-                    "field": "escolas",
-                    "type": "quantitative",
-                    "legend": {
-                        "title": "Número de escolas no bairro",
-                        "direction": "horizontal", //Default é vertical
-                        "orient": "bottom-right" //Default é right
-                    },
-                    "scale": {
-                        "range": ["rgb(209, 207, 215)", "rgb(138, 139, 170)", "rgb(67, 57, 127)"]
-                    }
-                }
-            }
+            "mark": "geoshape"
         };
 
         vegaEmbed("#vis", vlSpec);
