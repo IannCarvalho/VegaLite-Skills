@@ -24,7 +24,7 @@
     <script>
         // Assign the specification to a local variable vlSpec.
         var vlSpec = {
-            "$schema": "https://vega.github.io/schema/vega-lite/v2.1.json",
+          "$schema": "https://vega.github.io/schema/vega-lite/v2.1.json",
             "width": 1000,
             "height": 600,
             "data": {
@@ -34,7 +34,40 @@
                     "feature": "CG_BairrosEGL"
                 }
             },
-            "mark": "geoshape"
+            "transform": [{
+                "lookup": "properties.nome",
+                "from": {
+                    "data": {
+                        "url": "result.csv"
+                    },
+                    "key": "nome",
+                    "fields": ["escolas", "nome"]
+                }
+            }],
+            "mark": "geoshape",
+            "encoding": {
+                "tooltip": [{
+                    "field": "nome",
+                    "type": "nominal"
+                },
+                {
+                    "field": "escolas",
+                    "type": "quantitative"
+                }],
+                "color": {
+                    "field": "escolas",
+                    "type": "quantitative",
+                    "legend": {
+                        "title": "Número de escolas no bairro",
+                        "direction": "horizontal", 
+                        "orient": "bottom-right" 
+                    },
+                    "scale": {
+                      "scheme": "blues"
+                    }
+                }
+            }
+
         };
 
         vegaEmbed("#vis", vlSpec);
